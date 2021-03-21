@@ -46,7 +46,7 @@ const promptUser = () => {
             type:'list',
             name:'license',
             message:'Choose the license for this project:',
-            choices: ['GNU AGPL', 'GNU LGPL', 'Mozilla', 'Apache','MIT', 'Boost Software','The Unlicense']
+            choices: ['NPM', 'NPM', 'Mozilla', 'Axios','GitHub','UNLICENSED']
         },
         {
             type:'input',

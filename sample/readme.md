@@ -1,8 +1,8 @@
 
-    <h1 align='center'>Readme-Generator</h1>
+    <h1 align='center'>readme_generator</h1>
     
     ## Description 
-      I wanted to create a sample Readme Generator application using node, axios, Javascript, and inquirer.
+      Create a readme that blahs
     
     ## Table of Contents
     - [Description](#description)
@@ -13,16 +13,16 @@
     - [Features](#features)
     - [Contributing](#contributing)
     ## Installation
-      NPM, inquirer, and axios
+      npm init, inquirer, create a box for axios and badges using shield.io
     ## Usage
-      This is a test to make sure that I can override each readme.md generator. I am not sure if i am using this correctly but i got it to work
+      readme_img.png
     
     ## Credits
-      Many, Microsoft VSC repo for a readme generator, and a couple youtube tutorials.  
+      N/A  
     ## License
-      This application is covered by The Unlicense license.
+      This application is covered by NPM license.
     ## Features
-      Javacsript and some ES6
+      Javascript, Node, NPM, Axios, Shield, and Express
     ## Contributing
       Nope
   
