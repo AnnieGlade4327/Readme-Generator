@@ -27,7 +27,6 @@
   ![NPM Axios](https://img.shields.io/npm/l/axios)
   ![NPM Node](https://img.shields.io/npm/l/node)
   ![NPM Express](https://img.shields.io/npm/l/express)
-  ![GitHub](https://img.shields.io/github/license/AnnieGlade4327/Readme-generator)
 ## Features
       Javscript, Node.js, some ES6 and Express
 ## Contributing
