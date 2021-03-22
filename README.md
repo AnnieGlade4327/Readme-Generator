@@ -14,7 +14,7 @@
 ## Installation
       NPM, Node installation, then run node index.js
  ## Usage
- ![img src = "readme_img.png"]
+ ![image of readme generator in node terminal](readme_img.png)
     
  ## Credits
       myself and github, youtube vids, freecodecamp and Microsoft  
