@@ -1,8 +1,8 @@
 # Readme-Generator
 
 ## Description 
-    readme generator for user ease
- ![demo video](https://drive.google.com/file/d/1cRh7CeTt8jOMOajhU_bGngkR9x_PcAe8/view)
+ readme generator for user ease
+- [https://drive.google.com/file/d/1cRh7CeTt8jOMOajhU_bGngkR9x_PcAe8/view]; ![demo of application]
     
  ## Table of Contents
  - [Description](#description)
