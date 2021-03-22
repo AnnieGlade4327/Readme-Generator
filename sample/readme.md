@@ -1,8 +1,8 @@
 
-    <h1 align='center'>readme_generator</h1>
+    <h1 align='center'>Readme_generator</h1>
     
     ## Description 
-      Create a readme that blahs
+        readme generator for user ease
     
     ## Table of Contents
     - [Description](#description)
@@ -13,16 +13,16 @@
     - [Features](#features)
     - [Contributing](#contributing)
     ## Installation
-      npm init, inquirer, create a box for axios and badges using shield.io
+      NPM, Node installation, then run node index.js
     ## Usage
-      readme_img.png
+      ![img src = "readme_img.png"]
     
     ## Credits
-      N/A  
+      myself and github, youtube vids, freecodecamp and Microsoft  
     ## License
       This application is covered by NPM license.
     ## Features
-      Javascript, Node, NPM, Axios, Shield, and Express
+      Javscript, Node.js, some ES6 and Express
     ## Contributing
-      Nope
+      no please
   
