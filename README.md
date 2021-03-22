@@ -2,7 +2,7 @@
 
 ## Description 
  readme generator for user ease
-- [https://drive.google.com/file/d/1cRh7CeTt8jOMOajhU_bGngkR9x_PcAe8/view]; ![demo of application]
+- [https://drive.google.com/file/d/1cRh7CeTt8jOMOajhU_bGngkR9x_PcAe8/view]
     
  ## Table of Contents
  - [Description](#description)
