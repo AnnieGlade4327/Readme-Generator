@@ -23,6 +23,10 @@
       This application is covered by NPM license.
 ## Badges
     This Application uses Shield.io for Badges
+  ![NPM Inquirer](https://img.shields.io/npm/l/inquirer)
+  ![NPM Axios](https://img.shields.io/npm/l/axios)
+  ![NPM Node](https://img.shields.io/npm/l/node)
+  ![NPM Express](https://img.shields.io/npm/l/express)
 ## Features
       Javscript, Node.js, some ES6 and Express
 ## Contributing
