@@ -9,6 +9,7 @@
  - [Usage](#usage)
  - [Credits](#credits)
  - [License](#license)
+ - [Badges](#badges)
  - [Features](#features)
  - [Contributing](#contributing)
 ## Installation
@@ -20,6 +21,8 @@
       myself and github, youtube vids, freecodecamp and Microsoft  
 ## License
       This application is covered by NPM license.
+## Badges
+    This Application uses Shield.io for Badges
 ## Features
       Javscript, Node.js, some ES6 and Express
 ## Contributing
